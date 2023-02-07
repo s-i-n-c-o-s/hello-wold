@@ -1,3 +1,1 @@
-# hello-wold
-first try
-first try-edit
+# 大一上nogo大作业
